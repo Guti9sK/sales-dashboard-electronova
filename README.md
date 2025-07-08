@@ -15,7 +15,7 @@ Dashboard interactivo de ventas que presenta indicadores clave como:
 - Ingresos por categoría o segmento
 - Comparativas de desempeño
 
-El proyecto fue desarrollado en Excel utilizando tablas dinámicas, segmentadores y formato condicional, con el objetivo de proporcionar una visualización clara, dinámica y útil para análisis estratégicos.
+El proyecto fue desarrollado en Excel utilizando tablas dinámicas y segmentadores, con el objetivo de proporcionar una visualización clara, dinámica y útil para análisis estratégicos.
 
 
 ## 📸 Dashboard Preview
@@ -40,4 +40,4 @@ An interactive sales dashboard that presents key performance indicators such as:
 - Revenue by category or segment
 - Performance comparisons
 
-The project was built in Excel using pivot tables, slicers, and conditional formatting, aiming to deliver a clear, dynamic, and insightful visualization for strategic analysis.
+The project was built in Excel using pivot tables and slicers, aiming to deliver a clear, dynamic, and insightful visualization for strategic analysis.
