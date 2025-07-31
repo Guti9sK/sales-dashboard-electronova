@@ -1,5 +1,8 @@
 # 📊 Dashboard de Ventas - ElectroNova
 
+> ⚠️ **Aviso sobre los datos**: Los datos utilizados en este proyecto provienen de un curso de formación y están protegidos por derechos de autor. Por esa razón, no se incluyen en este repositorio. El análisis y visualización se muestran únicamente con fines demostrativos.
+
+
 ## 📚 Caso de estudio
 ElectroNova es una empresa líder en la venta de productos de oficina y mobiliario a nivel global.  
 Ofrece una amplia gama de artículos, incluyendo accesorios, mobiliario, suministros de oficina y tecnología.
@@ -24,6 +27,8 @@ El proyecto fue desarrollado en Excel utilizando tablas dinámicas y segmentador
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 📊 Sales Dashboard - ElectroNova
+
+>⚠️ **Notice about the data**: The data used in this project comes from a training course and is protected by copyright. Therefore, it is not included in this repository. The analysis and visualizations are shared for demonstration purposes only.
 
 ## 📚 Case Study
 ElectroNova is a global leader in the sale of office supplies and furniture.  
